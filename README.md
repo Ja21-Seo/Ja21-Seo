@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 
-<p align = "center">
-![Ja21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja21-Seo&show_icons=true&theme=radical)</p>
+![Ja21's GitHub stats]<p align = "center">(https://github-readme-stats.vercel.app/api?username=Ja21-Seo&show_icons=true&theme=radical)
+</p>
