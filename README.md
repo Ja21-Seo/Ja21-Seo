@@ -29,4 +29,4 @@
 </p>
 
 
-//![Ja21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja21-Seo&show_icons=true&theme=radical)
+/*![Ja21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ja21-Seo&show_icons=true&theme=radical)*/
